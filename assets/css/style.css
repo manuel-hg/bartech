@@ -1,0 +1,258 @@
+.pd5{
+    padding: 5%;
+}
+.mg5{
+    margin: 5%;
+}
+
+.pdtb5{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.pdtb3{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.bsearch{
+    border-radius: 25px;
+}
+.bgnav{
+    background-color: #fff;
+}
+#line{
+    border-left: 2px solid #1a365e;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: #1a365e;
+    margin-top: 3%;
+    height: 20px;
+}
+
+#line2 {
+    border-left: 2px solid #fff;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: #fff;
+    margin-top: 3%;
+    height: 20px;
+}
+.nav-link.active {
+    background-color: #1a365e;
+    color: #fff;
+}
+
+.h2title{
+    color:#1a365e;
+    font-weight: bold;
+
+}
+
+/*estilo footer*/
+.wi{
+    width: 5%;
+}
+.wf{
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.pdt5{
+    padding-top: 5%;
+}
+.pdb5{
+    padding-bottom: 5%;
+}
+.pdtb2{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+hr{
+    color: chartreuse;
+}
+.txc{
+    color: #fff;
+    font-weight: bold;
+
+}
+.txn{
+    color: #1a365e;
+}
+.bdf{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #1a365e;
+}
+.minibd{
+    border-radius: 50%;
+    border: #1a365e 5px solid;
+    margin: 5%;
+}
+
+.cards{
+    color:#fff;
+    background-color: #1a365e;    
+}
+.atx{
+    color: #1a365e;
+    /*texto intermedio de nosotros*/
+}
+.pdr0{
+    padding-right: 0px;
+}
+.pdl0{
+    padding-left: 0px;
+}
+
+.bgbanner{
+    background-image: url('../../assets/img/banner-pendiente.jpg');
+    height: 25%;
+    color: #ffffff;
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .txproduct{
+    color: #000
+ }
+
+ .bgasis{
+    background-color: #1a365e;
+    color:#fff;
+ }
+  .asis{
+    color:#fff;
+ }
+ .bgcard1{
+    background-image: url('../../assets/img/devoluciones.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+ .bgcard2{
+    background-image: url('../../assets/img/pedidos.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .bgcard3{
+    background-image: url('../../assets/img/pagos.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.bgcard4{
+    background-image: url('../../assets/img/devoluciones.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .bgcard5{
+    background-image: url('../../assets/img/factura.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.bgcard6{
+    background-color: #1a365e;
+     /*background-image: url('../../assets/img/pedidos.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+ }
+ .bgcard7{
+    background-image: url('../../assets/img/privacidad.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .hcard{
+    height: 100%;
+}
+.pdes{
+    font-size: 20px;
+}
+
+.spandes{
+    font-weight: bold;
+}
+
+.tltprod{
+    color: #1a365e;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.infoadic{
+    background-color: #1a365e;
+    color: #fff;
+    font-weight: bold;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-top: 2%;
+}
+
+.infotlt{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding-top: 5%;
+}
+
+.infotable{
+    border: #000 1px solid;
+}
+
+.btn ,.btnform{
+    color: white;
+    background-color: #1a365e
+}
+
+.bgdireccion{
+    background: #d1d5db;
+}
+
+.userpic{
+    border-radius: 50%;
+    border: #4FAD2F 5px solid;
+}
+.navdatos{
+    background-color: #1a365e;
+    
+}
+
+.bgbanner1{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navperfil{
+    background-color: #1a365e;
+    color: #fff;
+}
+
+.txw{
+    color:#fff;
+}
+
+
+.bgphills{
+        background-color: #1a365e;
+
+}
+
+.bgphills .active{
+        background-color: #fff;
+        color: #1a365e;
+
+}
+
+.bgdatosper{
+    background-color: #eee;
+    }
+
